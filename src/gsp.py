@@ -6,7 +6,7 @@ import re
 import os
 
 
-os.chdir('C:/Users/Alexandru/Documents/Master_1_1/GSP_Algorithm/data')
+os.chdir('C:/Users/Alexandru/Documents/GSP_Algorithm/data')
 
 def readInput():
 	
