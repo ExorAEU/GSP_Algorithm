@@ -5,8 +5,9 @@ from copy import deepcopy
 import re
 import os
 
-
-os.chdir('C:/Users/Alexandru/Documents/GSP_Algorithm/data')
+path = os.getcwd()
+pathstr=str(path)
+os.chdir(pathstr+'/data')
 
 def readInput():
 	
