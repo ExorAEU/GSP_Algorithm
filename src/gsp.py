@@ -8,9 +8,9 @@ import os
 path = os.getcwd()
 pathstr=str(path)
 # If stored in a direct path:
-os.chdir(pathstr+'/data')
+#os.chdir(pathstr+'/data')
 #if stored in an indirect path, use:
-#os.chdir(pathstr+'/GSP_Algorithm/data')
+os.chdir(pathstr+'/GSP_Algorithm/data')
 
 def readInput():
 	
