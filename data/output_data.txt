@@ -1,0 +1,19 @@
+The number of length 1 sequential pattern is 9
+Pattern : <{20}>: Count = 6
+Pattern : <{30}>: Count = 6
+Pattern : <{70}>: Count = 7
+Pattern : <{80}>: Count = 6
+Pattern : <{90}>: Count = 4
+Pattern : <{10}>: Count = 6
+Pattern : <{40}>: Count = 6
+Pattern : <{50}>: Count = 7
+Pattern : <{60}>: Count = 6
+The number of length: 2 sequential pattern is 6
+Pattern : <{20,30}>:Count = 6
+Pattern : <{20}{80}>:Count = 4
+Pattern : <{30}{80}>:Count = 4
+Pattern : <{70}{70}>:Count = 4
+Pattern : <{50,70}>:Count = 4
+Pattern : <{10}{40}>:Count = 6
+The number of length: 3 sequential pattern is 1
+Pattern : <{20,30}{80}>:Count = 4
