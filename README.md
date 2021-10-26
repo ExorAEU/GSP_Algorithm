@@ -1,7 +1,7 @@
 **GSP Algorithm - Basic Description, Common Syntax and Case Study**
 ===============
 
-This is a simple example of GSP Algorithm Implementation, factoring in Minimum Item Support Values and Support Difference Constraint. The script is built by employing several references from various Github authors, mainly Tanay Chowdhury which can be found at [his Github address.](https://github.com/tanayz)
+This is a simple example of GSP Algorithm Implementation, factoring in Minimum Item Support Values and Support Difference Constraint. The script is built by employing emulating several sources, mainly praveenchandroo which can be found at [his Github address.](https://github.com/praveenchandroo)
 
 The script utilizes 2 input files, given here as *data.txt* and *para.txt*, which define the Dataset and the MIS and SDC values respectively. The workflow of the script is more or less identical to the one described below. 
 
